@@ -1,5 +1,6 @@
 # Competitive Programming Club
-Burgas Free University Competitive Programming Club Official Web Page: http://dev.bfu.bg/
+Competitive Programming Club is Burgas Free University students initiative. 
+For more information visit the official web page: http://dev.bfu.bg/
 
 ## Content
 1. [Intro](01_Intro)
