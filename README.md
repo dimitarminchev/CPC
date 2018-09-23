@@ -1,0 +1,2 @@
+# CPC
+Competitive Programming Club
