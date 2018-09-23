@@ -6,6 +6,13 @@
 3. [Divide and Conquer](03_Divide_and_Conquer)
 4. [Greedy](04_Greedy)
 5. [Dynamic Programming](05_Dynamic_Programming)
+6. [Graphs: Depth First Search and Breadth First Search](06_Graphs_I) 
+7. [Graphs: Finding Connected Components and Flood Fill - Labeling/Coloring the Connected Components](07_Graphs_II)
+8. [Graphs: Topological Sort and Bipartite Graph Check](08_Graphs_III)
+9. [Minimum Spanning Tree](09_Min_Span_Tree)
+10. [Network Flow](10_Net_Flow)
+11. [Mathematics](11_Mathematics)
+12. [Geometry](12_Geometry)
 
 ## Programme
 - 10.10.2018 = Intro (1.4)
