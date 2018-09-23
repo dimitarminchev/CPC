@@ -1,5 +1,12 @@
 # Competitive Programming Club
 
+## Content
+1. [Intro](01_Intro)
+2. [Complete Search](02_Complete_Search)
+3. [Divide and Conquer](03_Divide_and_Conquer)
+4. [Greedy](04_Greedy)
+5. [Dynamic Programming](05_Dynamic_Programming)
+
 ## Programme
 - 10.10.2018 = Intro (1.4)
 - 17.10.2018 = Tasks
