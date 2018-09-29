@@ -48,6 +48,7 @@ Finally, in Section 3.2.3, we provide a few tips to give your solution, especial
 your Complete Search solution, a better chance to pass the required Time Limit.
 
 ## 3.2.1 Iterative Complete Search
+
 **Iterative Complete Search (Two Nested Loops: UVa 725 - Division)**
 
 Abridged problem statement: Find and display all pairs of 5-digit numbers that collectively
@@ -141,6 +142,7 @@ x + y + z == A && x * y * z == B && x * x + y * y + z * z == C) {
 printf("%d %d %d\n", x, y, z);
 sol = true; }
 ```
+
 ** Iterative Complete Search (Permutations: UVa 11742 - Social Constraints) **
 
 Abridged problem statement: There are 0 < n ≤ 8 movie goers. They will sit in the front
@@ -160,6 +162,7 @@ do { // try all possible O(n!) permutations, the largest input 8! = 40320
 } // the overall time complexity is thus O(m * n!)
 while (next_permutation(p, p + n)); // this is inside C++ STL <algorithm>
 ```
+
 ** Iterative Complete Search (Subsets: UVa 12455 - Bars) **
 
 Abridged problem statement1: Given a list l containing 1 ≤ n ≤ 20 integers, is there a subset of list l that sums to another given integer X?
@@ -188,6 +191,7 @@ Exercise 3.2.1.3*: Java does not have a built-in next permutation function yet. 
 Exercise 3.2.1.4*: How would you solve UVa 12455 if 1 ≤ n ≤ 30 and each integer can be as big as 1000000000? Hint: See Section 8.2.4.
 
 ## 3.2.2 Recursive Complete Search
+
 ** Simple Backtracking: UVa 750 - 8 Queens Chess Problem **
 
 [TODO]
