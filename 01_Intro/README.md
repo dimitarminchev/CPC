@@ -104,7 +104,7 @@ should not be used beyond competitive programming, especially in software indust
 Programming Exercises related to Ad Hoc problems:
 
 - Game (Card)
-1. UVa 00162 - Beggar My Neighbour (card game simulation; straightforward)
+1. [UVa 00162](UVA00162.pdf) - Beggar My Neighbour (card game simulation; straightforward)
 2. UVa 00462 - Bridge Hand Evaluator * (simulation; card)
 3. UVa 00555 - Bridge Hands (card game)
 4. UVa 10205 - Stack ’em Up (card game)
