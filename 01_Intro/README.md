@@ -196,7 +196,7 @@ Programming Exercises related to Ad Hoc problems:
 15. UVa 12555 - Baby Me (one of the first question asked when a new baby is born; requires a bit of input processing)
 
 - **Interesting Real Life Problems, Harder (more tedious)**
-1. UVa 00139 - Telephone Tangles (calculate phone bill; string manipulation)
+1. [UVa 00139 - Telephone Tangles (calculate phone bill; string manipulation)](UVA00139.pdf)
 2. UVa 00145 - Gondwanaland Telecom (similar nature with UVa 139)
 3. UVa 00333 - Recognizing Good ISBNs (note: this problem has ‘buggy’ test data with blank lines that potentially cause lots of ‘Presentation Errors’)
 4. UVa 00346 - Getting Chorded (musical chord, major/minor)
