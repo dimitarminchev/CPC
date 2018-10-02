@@ -169,7 +169,7 @@ Programming Exercises related to Ad Hoc problems:
 6. UVa 11309 - Counting Chaos (palindrome check)
 
 - **Anagram**
-1. UVa 00148 - Anagram Checker (uses backtracking)
+1. [UVa 00148 - Anagram Checker (uses backtracking)](UVA00148.pdf)
 2. UVa 00156 - Ananagram * (easier with algorithm::sort)
 3. UVa 00195 - Anagram * (easier with algorithm::next permutation)
 4. UVa 00454 - Anagrams * (anagram)
@@ -177,7 +177,7 @@ Programming Exercises related to Ad Hoc problems:
 6. UVa 00642 - Word Amalgamation (go through the given small dictionary for the list of possible anagrams)
 7. UVa 10098 - Generating Fast, Sorted ... (very similar to UVa 195)
 
-- Interesting Real Life Problems, Easier
+- **Interesting Real Life Problems, Easier**
 1. UVa 00161 - Traffic Lights * (this is a typical situation on the road)
 2. UVa 00187 - Transaction Processing (an accounting problem)
 3. UVa 00362 - 18,000 Seconds Remaining (typical file download situation)
@@ -194,7 +194,7 @@ Programming Exercises related to Ad Hoc problems:
 14. UVa 12195 - Jingle Composing (count the number of correct measures)
 15. UVa 12555 - Baby Me (one of the first question asked when a new baby is born; requires a bit of input processing)
 
-- Interesting Real Life Problems, Harder (more tedious)
+- **Interesting Real Life Problems, Harder (more tedious)**
 1. UVa 00139 - Telephone Tangles (calculate phone bill; string manipulation)
 2. UVa 00145 - Gondwanaland Telecom (similar nature with UVa 139)
 3. UVa 00333 - Recognizing Good ISBNs (note: this problem has ‘buggy’ test data with blank lines that potentially cause lots of ‘Presentation Errors’)
@@ -214,7 +214,7 @@ Programming Exercises related to Ad Hoc problems:
 17. UVa 11743 - Credit Check (Luhn’s algorithm to check credit card numbers; search the Internet to learn more)
 18. UVa 12342 - Tax Calculator (tax computation can be tricky indeed)
 
-- Time
+- **Time**
 1. UVa 00170 - Clock Patience (simulation, time)
 2. UVa 00300 - Maya Calendar (ad hoc, time)
 3. UVa 00579 - Clock Hands * (ad hoc, time)
@@ -235,7 +235,7 @@ Programming Exercises related to Ad Hoc problems:
 18. UVa 12439 - February 29 (inclusion-exclusion; lots of corner cases; be careful)
 19. UVa 12531 - Hours and Minutes (angles between two clock hands)
 
-- "Time Waster" Problems
+- **"Time Waster" Problems**
 1. UVa 00144 - Student Grants (simulation)
 2. UVa 00214 - Code Generation (just simulate the process; be careful with subtract (-), divide (/), and negate (@), tedious)
 3. UVa 00335 - Processing MX Records (simulation)
