@@ -33,7 +33,9 @@ Hoc problems after you have understood the required concepts.
 
 The categories:
 
-- **Game (Card)** = There are lots of Ad Hoc problems involving popular games. Many are related to card
+- **Game (Card)** 
+
+There are lots of Ad Hoc problems involving popular games. Many are related to card
 games. You will usually need to parse the input strings (see Section 6.3) as playing
 cards have both suits (D/Diamond/♦, C/Club/♣, H/Heart/♥, and S/Spades/♠) and
 ranks (usually: 2 < 3 < . . .< 9 < T/Ten < J/Jack < Q/Queen < K/King < A/Ace12).
@@ -41,15 +43,20 @@ It may be a good idea to map these troublesome strings to integer indices. For e
 one possible mapping is to map D2 → 0, D3 → 1, . . . , DA → 12, C2 → 13, C3 → 14,
 . . . , SA → 51. Then, you can work with the integer indices instead.
 
-- **Game (Chess)** = Chess is another popular game that sometimes appears in programming contest problems.
+- **Game (Chess)**
+
+Chess is another popular game that sometimes appears in programming contest problems.
 Some of these problems are Ad Hoc and listed in this section. Some of them are
 combinatorial with tasks like counting how many ways there are to place 8-queens in
 8 × 8 chess board. These are listed in Chapter 3.
 
-- **Game (Others)**, easier and harder (or more tedious). = Other than card and chess games, many other popular games have made their way into programming contests: Tic Tac Toe, Rock-Paper-Scissors, Snakes/Ladders, BINGO, Bowling, etc. Knowing the details of these games may be helpful, but most of the game rules are given in the problem description to avoid disadvantaging contestants
+- **Game (Others), easier and harder (or more tedious)**. 
+
+Other than card and chess games, many other popular games have made their way into programming contests: Tic Tac Toe, Rock-Paper-Scissors, Snakes/Ladders, BINGO, Bowling, etc. Knowing the details of these games may be helpful, but most of the game rules are given in the problem description to avoid disadvantaging contestants
 who are unfamiliar with the games.
 
-- Problems related to **Palindromes**
+- **Problems related to Palindromes**
+
 These are also classic problems. A palindrome is a word (or a sequence) that can
 be read the same way in either direction. The most common strategy to check if a
 word is palindromic is to loop from the first character to the middle one and check
@@ -57,7 +64,8 @@ if the characters match in the corresponding position from the back. For example
 ‘ABCDCBA’ is a palindrome. For some harder palindrome-related problems, you
 may want to check Section 6.5 for Dynamic Programming solutions.
 
--  Problems related to **Anagrams**
+-  **Problems related to Anagrams**
+
 This is yet another class of classic problems. An anagram is a word (or phrase) whose
 letters can be rearranged to obtain another word (or phrase). The common strategy
 to check if two words are anagrams is to sort the letters of the words and compare
@@ -72,21 +80,24 @@ Science. The fact that we write programs to solve real life problems can be
 an additional motivational boost. Who knows, you might stand to gain new (and
 interesting) information from the problem description!
 
-- Ad Hoc problems involving **Time**
+- **Ad Hoc problems involving Time**
+
 These problems utilize time concepts such as dates, times, and calendars. These are
 also real life problems. As mentioned earlier, these problems can be a little more
 interesting to solve. Some of these problems will be far easier to solve if you have
 mastered the Java GregorianCalendar class as it has many library functions that deal
 with time.
 
-- **"Time Waster"** problems
+- **"Time Waster" problems**
+
 These are Ad Hoc problems that are written specifically to make the required solution
 long and tedious. These problems, if they do appear in a programming contest, would
 determine the team with the most efficient coder—someone who can implement complicated
 but still accurate solutions under time constraints. Coaches should consider
 adding such problems in their training programmes.
 
-- Ad Hoc problems in **other chapters**
+- **Ad Hoc problems in other chapters**
+
 There are many other Ad Hoc problems which we have shifted to other chapters since
 they required knowledge above basic programming skills.
 
@@ -103,7 +114,7 @@ should not be used beyond competitive programming, especially in software indust
 
 Programming Exercises related to Ad Hoc problems:
 
-- Game (Card)
+- **Game (Card)**
 1. [UVa 00162 - Beggar My Neighbour (card game simulation; straightforward)](UVA00162.pdf)
 2. UVa 00462 - Bridge Hand Evaluator * (simulation; card)
 3. UVa 00555 - Bridge Hands (card game)
@@ -114,7 +125,7 @@ Programming Exercises related to Ad Hoc problems:
 8. UVa 11678 - Card’s Exchange (actually just an array manipulation problem)
 9. UVa 12247 - Jollo * (interesting card game; simple, but requires good logic to get all test cases correct)
 
-- Game (Chess)
+- **Game (Chess)**
 1. [UVa 00255 - Correct Move (check the validity of chess moves)](UVA00255.pdf)
 2. UVa 00278 - Chess * (ad hoc, chess, closed form formula exists)
 3. UVa 00696 - How Many Knights * (ad hoc, chess)
@@ -123,7 +134,7 @@ Programming Exercises related to Ad Hoc problems:
 6. UVa 10849 - Move the bishop (chess)
 7. UVa 11494 - Queen (ad hoc, chess)
 
-- Game (Others), Easier
+- **Game (Others), Easier**
 1. [UVa 00340 - Master-Mind Hints (determine strong and weak matches)](UVA00340.pdf)
 2. UVa 00489 - Hangman Judge * (just do as asked)
 3. UVa 00947 - Master Mind Helper (similar to UVa 340)
@@ -134,7 +145,7 @@ Programming Exercises related to Ad Hoc problems:
 8. UVa 11459 - Snakes and Ladders * (simulate it, similar to UVa 647)
 9. UVa 12239 - Bingo (try all 902 pairs, see if all numbers in [0..N] are there)
 
--  Game (Others), Harder (more tedious)
+-  **Game (Others), Harder (more tedious)**
 1. UVa 00114 - Simulation Wizardry (simulation of pinball machine)
 2. UVa 00141 - The Spot Game (simulation, pattern check)
 3. UVa 00220 - Othello (follow the game rules, a bit tedious)
@@ -149,15 +160,15 @@ Programming Exercises related to Ad Hoc problems:
 12. UVa 10813 - Traditional BINGO * (follow the problem description)
 13. UVa 10903 - Rock-Paper-Scissors ... (count win+losses, output win average)
 
-- Palindrome
-1. UVa 00353 - Pesky Palindromes (brute force all substring)
+- **Palindrome**
+1. [UVa 00353 - Pesky Palindromes (brute force all substring)](UVA00353.pdf)
 2. UVa 00401 - Palindromes * (simple palindrome check)
 3. UVa 10018 - Reverse and Add (ad hoc, math, palindrome check)
 4. UVa 10945 - Mother Bear * (palindrome)
 5. UVa 11221 - Magic Square Palindrome * (we deal with a matrix)
 6. UVa 11309 - Counting Chaos (palindrome check)
 
-- Anagram
+- **Anagram**
 1. UVa 00148 - Anagram Checker (uses backtracking)
 2. UVa 00156 - Ananagram * (easier with algorithm::sort)
 3. UVa 00195 - Anagram * (easier with algorithm::next permutation)
