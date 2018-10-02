@@ -73,7 +73,8 @@ the results. For example, take wordA = ‘cab’, wordB = ‘bca’. After sorti
 = ‘abc’ and wordB = ‘abc’ too, so they are anagrams. See Section 2.2 for various
 sorting techniques.
 
-- Interesting **Real Life** Problems, easier and harder (or more tedious)
+- **Interesting **Real Life** Problems, easier and harder (or more tedious)**
+
 This is one of the most interesting problem categories in the UVa Online Judge. We
 believe that real life problems like these are interesting to those who are new to Computer
 Science. The fact that we write programs to solve real life problems can be
@@ -146,7 +147,7 @@ Programming Exercises related to Ad Hoc problems:
 9. UVa 12239 - Bingo (try all 902 pairs, see if all numbers in [0..N] are there)
 
 -  **Game (Others), Harder (more tedious)**
-1. UVa 00114 - Simulation Wizardry (simulation of pinball machine)
+1. [UVa 00114 - Simulation Wizardry (simulation of pinball machine)](UVA00114.pdf)
 2. UVa 00141 - The Spot Game (simulation, pattern check)
 3. UVa 00220 - Othello (follow the game rules, a bit tedious)
 4. UVa 00227 - Puzzle (parse the input, array manipulation)
