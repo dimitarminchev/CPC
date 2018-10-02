@@ -216,7 +216,7 @@ Programming Exercises related to Ad Hoc problems:
 18. UVa 12342 - Tax Calculator (tax computation can be tricky indeed)
 
 - **Time**
-1. UVa 00170 - Clock Patience (simulation, time)
+1. [UVa 00170 - Clock Patience (simulation, time)](UVA00170.pdf)
 2. UVa 00300 - Maya Calendar (ad hoc, time)
 3. UVa 00579 - Clock Hands * (ad hoc, time)
 4. UVa 00893 - Y3K * (use Java GregorianCalendar; similar to UVa 11356)
