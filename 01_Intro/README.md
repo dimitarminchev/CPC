@@ -104,7 +104,7 @@ should not be used beyond competitive programming, especially in software indust
 Programming Exercises related to Ad Hoc problems:
 
 - Game (Card)
-1. [UVa 00162](UVA00162.pdf) - Beggar My Neighbour (card game simulation; straightforward)
+1. [UVa 00162 - Beggar My Neighbour (card game simulation; straightforward)](UVA00162.pdf)
 2. UVa 00462 - Bridge Hand Evaluator * (simulation; card)
 3. UVa 00555 - Bridge Hands (card game)
 4. UVa 10205 - Stack ’em Up (card game)
@@ -115,7 +115,7 @@ Programming Exercises related to Ad Hoc problems:
 9. UVa 12247 - Jollo * (interesting card game; simple, but requires good logic to get all test cases correct)
 
 - Game (Chess)
-1. UVa 00255 - Correct Move (check the validity of chess moves)
+1. [UVa 00255 - Correct Move (check the validity of chess moves)](UVA00255.pdf)
 2. UVa 00278 - Chess * (ad hoc, chess, closed form formula exists)
 3. UVa 00696 - How Many Knights * (ad hoc, chess)
 4. UVa 10196 - Check The Check (ad hoc chess game, tedious) 
