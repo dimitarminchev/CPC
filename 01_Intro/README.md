@@ -179,7 +179,7 @@ Programming Exercises related to Ad Hoc problems:
 7. UVa 10098 - Generating Fast, Sorted ... (very similar to UVa 195)
 
 - **Interesting Real Life Problems, Easier**
-1. UVa 00161 - Traffic Lights * (this is a typical situation on the road)
+1. [UVa 00161 - Traffic Lights * (this is a typical situation on the road)](UVA00161.pdf)
 2. UVa 00187 - Transaction Processing (an accounting problem)
 3. UVa 00362 - 18,000 Seconds Remaining (typical file download situation)
 4. UVa 00637 - Booklet Printing * (application in printer driver software)
