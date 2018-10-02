@@ -124,7 +124,7 @@ Programming Exercises related to Ad Hoc problems:
 7. UVa 11494 - Queen (ad hoc, chess)
 
 - Game (Others), Easier
-1. UVa 00340 - Master-Mind Hints (determine strong and weak matches)
+1. [UVa 00340 - Master-Mind Hints (determine strong and weak matches)](UVA00340.pdf)
 2. UVa 00489 - Hangman Judge * (just do as asked)
 3. UVa 00947 - Master Mind Helper (similar to UVa 340)
 4. UVa 10189 - Minesweeper * (simulateMinesweeper, similar to UVa 10279)
