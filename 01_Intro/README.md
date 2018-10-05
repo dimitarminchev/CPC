@@ -1,4 +1,10 @@
-# The Ad Hoc Problems
+# 1.3.1. Anatomy of a Problem
+TODO
+
+# 1.3.2. Input/OutPut
+TODO
+
+# 1.4. The Ad Hoc Problems
 
 We will terminate this chapter by discussing the first proper problem type in the ICPCs
 and IOIs: The Ad Hoc problems. According to USACO [48], the Ad Hoc problems are
@@ -116,7 +122,7 @@ should not be used beyond competitive programming, especially in software indust
 Programming Exercises related to Ad Hoc problems:
 
 - **Game (Card)**
-1. [UVa 00162 - Beggar My Neighbour (card game simulation; straightforward)](UVA00162.pdf)
+1. [UVa 00162 - Beggar My Neighbour - card game simulation; straightforward](UVA00162.pdf)
 2. UVa 00462 - Bridge Hand Evaluator * (simulation; card)
 3. UVa 00555 - Bridge Hands (card game)
 4. UVa 10205 - Stack ’em Up (card game)
@@ -127,7 +133,7 @@ Programming Exercises related to Ad Hoc problems:
 9. UVa 12247 - Jollo * (interesting card game; simple, but requires good logic to get all test cases correct)
 
 - **Game (Chess)**
-1. [UVa 00255 - Correct Move (check the validity of chess moves)](UVA00255.pdf)
+1. [UVa 00255 - Correct Move - check the validity of chess moves](UVA00255.pdf)
 2. UVa 00278 - Chess * (ad hoc, chess, closed form formula exists)
 3. UVa 00696 - How Many Knights * (ad hoc, chess)
 4. UVa 10196 - Check The Check (ad hoc chess game, tedious) 
@@ -136,7 +142,7 @@ Programming Exercises related to Ad Hoc problems:
 7. UVa 11494 - Queen (ad hoc, chess)
 
 - **Game (Others), Easier**
-1. [UVa 00340 - Master-Mind Hints (determine strong and weak matches)](UVA00340.pdf)
+1. [UVa 00340 - Master-Mind Hints - determine strong and weak matches](UVA00340.pdf)
 2. UVa 00489 - Hangman Judge * (just do as asked)
 3. UVa 00947 - Master Mind Helper (similar to UVa 340)
 4. UVa 10189 - Minesweeper * (simulateMinesweeper, similar to UVa 10279)
@@ -147,7 +153,7 @@ Programming Exercises related to Ad Hoc problems:
 9. UVa 12239 - Bingo (try all 902 pairs, see if all numbers in [0..N] are there)
 
 -  **Game (Others), Harder (more tedious)**
-1. [UVa 00114 - Simulation Wizardry (simulation of pinball machine)](UVA00114.pdf)
+1. [UVa 00114 - Simulation Wizardry - simulation of pinball machine](UVA00114.pdf)
 2. UVa 00141 - The Spot Game (simulation, pattern check)
 3. UVa 00220 - Othello (follow the game rules, a bit tedious)
 4. UVa 00227 - Puzzle (parse the input, array manipulation)
@@ -162,7 +168,7 @@ Programming Exercises related to Ad Hoc problems:
 13. UVa 10903 - Rock-Paper-Scissors ... (count win+losses, output win average)
 
 - **Palindrome**
-1. [UVa 00353 - Pesky Palindromes (brute force all substring)](UVA00353.pdf)
+1. [UVa 00353 - Pesky Palindromes - brute force all substring](UVA00353.pdf)
 2. UVa 00401 - Palindromes * (simple palindrome check)
 3. UVa 10018 - Reverse and Add (ad hoc, math, palindrome check)
 4. UVa 10945 - Mother Bear * (palindrome)
@@ -170,7 +176,7 @@ Programming Exercises related to Ad Hoc problems:
 6. UVa 11309 - Counting Chaos (palindrome check)
 
 - **Anagram**
-1. [UVa 00148 - Anagram Checker (uses backtracking)](UVA00148.pdf)
+1. [UVa 00148 - Anagram Checker - uses backtracking](UVA00148.pdf)
 2. UVa 00156 - Ananagram * (easier with algorithm::sort)
 3. UVa 00195 - Anagram * (easier with algorithm::next permutation)
 4. UVa 00454 - Anagrams * (anagram)
@@ -179,7 +185,7 @@ Programming Exercises related to Ad Hoc problems:
 7. UVa 10098 - Generating Fast, Sorted ... (very similar to UVa 195)
 
 - **Interesting Real Life Problems, Easier**
-1. [UVa 00161 - Traffic Lights * (this is a typical situation on the road)](UVA00161.pdf)
+1. [UVa 00161 - Traffic Lights* - this is a typical situation on the road](UVA00161.pdf)
 2. UVa 00187 - Transaction Processing (an accounting problem)
 3. UVa 00362 - 18,000 Seconds Remaining (typical file download situation)
 4. UVa 00637 - Booklet Printing * (application in printer driver software)
@@ -196,7 +202,7 @@ Programming Exercises related to Ad Hoc problems:
 15. UVa 12555 - Baby Me (one of the first question asked when a new baby is born; requires a bit of input processing)
 
 - **Interesting Real Life Problems, Harder (more tedious)**
-1. [UVa 00139 - Telephone Tangles (calculate phone bill; string manipulation)](UVA00139.pdf)
+1. [UVa 00139 - Telephone Tangles - calculate phone bill; string manipulation](UVA00139.pdf)
 2. UVa 00145 - Gondwanaland Telecom (similar nature with UVa 139)
 3. UVa 00333 - Recognizing Good ISBNs (note: this problem has ‘buggy’ test data with blank lines that potentially cause lots of ‘Presentation Errors’)
 4. UVa 00346 - Getting Chorded (musical chord, major/minor)
@@ -216,7 +222,7 @@ Programming Exercises related to Ad Hoc problems:
 18. UVa 12342 - Tax Calculator (tax computation can be tricky indeed)
 
 - **Time**
-1. [UVa 00170 - Clock Patience (simulation, time)](UVA00170.pdf)
+1. [UVa 00170 - Clock Patience - simulation, time](UVA00170.pdf)
 2. UVa 00300 - Maya Calendar (ad hoc, time)
 3. UVa 00579 - Clock Hands * (ad hoc, time)
 4. UVa 00893 - Y3K * (use Java GregorianCalendar; similar to UVa 11356)
